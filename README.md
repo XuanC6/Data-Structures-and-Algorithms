@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Coursera courses assignments
+Coursera courses assignments in Python3
